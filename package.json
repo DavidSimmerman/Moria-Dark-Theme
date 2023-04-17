@@ -1,0 +1,21 @@
+{
+  "name": "moria-dark",
+  "displayName": "Moria Dark",
+  "description": "Dark color theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moria Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moria Dark-color-theme.json"
+      }
+    ]
+  }
+}
